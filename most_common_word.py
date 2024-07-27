@@ -1,3 +1,5 @@
+#commenting on this file is AWFUL. May update in near future with better documentation to make using a bit more friendly.
+
 import nltk
 from collections import Counter
 import re
